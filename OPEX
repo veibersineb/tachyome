@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "name": "Aventura e Ação",
+      "manga": [
+        {
+          "title": "One Piece",
+          "url": "https://onepieceex.net/mangas/leitor/",
+          "thumbnail_url": "https://onepieceex.net/mangas/leitor/?c=1",
+          "status": "Em Andamento",
+          "artist": "Eiichiro Oda",
+          "author": "Eiichiro Oda",
+          "description": ""One Piece" segue a história de Monkey D. Luffy, um jovem que, acidentalmente, ganha a habilidade de esticar seu corpo como borracha após comer uma fruta do diabo chamada Gomu Gomu no Mi. Inspirado pelo lendário pirata Gol D. Roger, que é conhecido como o Rei dos Piratas e que antes de ser executado revelou a existência do tesouro One Piece, Luffy parte em uma jornada pelo Grande Mar (Grand Line) para se tornar o Rei dos Piratas e encontrar o One Piece."
+        }
+      ]
+    }
+  ]
+}
